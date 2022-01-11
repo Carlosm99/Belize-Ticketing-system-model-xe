@@ -1,3 +1,3 @@
 # Ticket System
 
-![](assets/appdemo.gif
+![](assets/appdemo.gif)
